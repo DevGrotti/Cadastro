@@ -1,6 +1,5 @@
-# Matheus Grotti Pereira / RA 310446 / GTI
-
 # manipulação de interface gráfica
+
 from tkinter import *
 from tkinter import Tk, StringVar, ttk
 from tkinter import messagebox
@@ -246,7 +245,7 @@ app_logo.place(x=0, y=0)
 
 # trabalhando no frame central
 
-# label grotti
+# label nome/autor
 label_grotti = Label(frameCima, text="by Grotti", height=1, anchor=NW, font=("Ivy 10 bold italic"), bg=cor1, fg=cor4)
 label_grotti.place(x=835, y=1)
 
