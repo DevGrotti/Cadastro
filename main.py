@@ -25,6 +25,9 @@ cor6 = "#038cfc" # azul
 cor7 = "#3fbfb9" # verde
 cor8 = "#263238" # mais verde
 cor9 = "#e9edf5" # mais verde 2
+cor10 = "#383434" # cinza dark
+
+
 
 
 # criando janela
@@ -238,16 +241,12 @@ app_img = ImageTk.PhotoImage(app_img)
 
 
 # criando a label "Cadastro"
-app_logo = Label(frameCima, image=app_img, text=" Cadastro", width=900, compound=LEFT, relief=RAISED, anchor=NW, font=("Verdana 20 bold"), bg=cor1, fg=cor4)
+app_logo = Label(frameCima, image=app_img, text=" Cadastro", width=900, compound=LEFT, relief=RAISED, anchor=NW, font=("Verdana 20 bold"), bg=cor6, fg=cor4)
 app_logo.place(x=0, y=0)
 
 
 
 # trabalhando no frame central
-
-# label nome/autor
-label_grotti = Label(frameCima, text="by Grotti", height=1, anchor=NW, font=("Ivy 10 bold italic"), bg=cor1, fg=cor4)
-label_grotti.place(x=835, y=1)
 
 # criando entradas
 
@@ -301,6 +300,7 @@ entrada_hobbies.place(x=130, y=191)
 
 
 # criando botoes
+
 
 # botao de upload
 
