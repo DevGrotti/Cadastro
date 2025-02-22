@@ -80,6 +80,7 @@
   • ❌Caso deseje **deletar** algum usuário, selecione-o na tabela e clique em "Deletar": <br><br>
       ![image](https://media.discordapp.net/attachments/782794257085366274/1342885566093463683/gif5delUser.gif?ex=67bb4324&is=67b9f1a4&hm=5473ee1d5b45304056ea25fd73c47bf2eadeea901c177cc40da37e60ca2ade99&=&width=668&height=468) <br><br>
       
+_______________________________________________________________________
 
 ➕Update:
 
